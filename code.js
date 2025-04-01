@@ -21,3 +21,4 @@ function isPalindrome(str) {
 
 console.log(isPalindrome("racecar")); 
 console.log(isPalindrome("hello"));   
+// raghunandan.kv@kgkite.ac.in
